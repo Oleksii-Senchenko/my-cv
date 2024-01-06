@@ -1,0 +1,51 @@
+
+.face {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto; 
+  display: block;
+  margin-bottom: 10px;
+}
+.title {
+  color: white;
+  margin-bottom: 10px;
+}
+.line {
+  height: 1px;
+  width: 250px;
+  background-color: rgb(240, 239, 239);
+  margin-bottom: 20px;
+}
+.contactList {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+.contactItem {
+  transition: transform 500ms cubic-bezier(0.68, -0.55, 0.27, 1.55);
+  transition: 500ms;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contactItem:hover {
+  transform: translate(-10%, -15%);
+}
+.contactItem:last-child {
+  margin-bottom: 10px;
+}
+.contactLink {
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.icon{
+  padding: 0;
+  margin: 0;
+  fill: white;
+}
