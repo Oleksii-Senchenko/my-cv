@@ -1,11 +1,10 @@
-import Header from "../Components/Header/Header";
 import MainSection from "../Components/MainSection/MainSection";
 import SideSection from "../Components/SideSection/SideSection";
 import css from './App.module.css'
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <div className={css.main}>
         <SideSection />
         <MainSection />
