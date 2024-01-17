@@ -3,7 +3,7 @@ import css from "./SideSection.module.css";
 import Contacts from "../Contacts/Contacts";
 import Skills from "../Skills/Skills";
 import tech from "../../tech.json";
-import soft from "../../tech.json";
+import soft from "../../soft.json";
 import language from "../../language.json";
 const SideSection = () => {
   return (

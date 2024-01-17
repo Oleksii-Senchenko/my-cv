@@ -1,5 +1,5 @@
-import React from "react";
-import css from '../MainSection/MainSection.module.css'
+import React from 'react';
+import css from '../MainSection/MainSection.module.css';
 
 const Summary = () => {
   return (
@@ -10,7 +10,7 @@ const Summary = () => {
         opportunities . For more than one year I'm graduated from the IT courses
         ‘’GoIT’’ and I am developing my knowledge in Full Stack. I learned JS
         programming language and libraries for JS. I'm interested in HTML5,
-        CSS3, Java Script, React, redux, NodeJS, Express, Mongo, REST-API .
+        CSS3, Java Script, React, redux, NodeJS, Express, Mongo, REST-API.
       </p>
     </section>
   );

@@ -61,7 +61,7 @@ const ProjectExperience = () => {
           </ul>
           <p className={css.skill}>HTML- SASS - JS</p>
           <p className={css.about}>
-            In this project I took the position of a developer, my tasks
+            IIn this project I took the position of a developer, my tasks
             included writing a header and logic for it
           </p>
         </div>
@@ -102,9 +102,7 @@ const ProjectExperience = () => {
           <p className={css.about}>
             In this project, I was responsible for the "Add a pet" form and all
             of the backend logic for it
-            <br />
-            <br />
-            Also i writed back-end for "Notices" section
+            <br /> Also, I writed the back-end for the “Notices” section
           </p>
         </div>
       </div>

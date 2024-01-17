@@ -10,15 +10,12 @@ const WorkExperience = () => {
         <p>
           2021
           <br />
-          Work Experience
+          NETZSCH, mechanical engineer, Bobingen, Germany
         </p>
         <p>
-          Thanks to my university, I had an opportunity to obtain a position in
-          Germany. In the position of mechanical engineer, I was working at a
-          chemical factory NETZSCH. My team was involved in building industrial
-          machines. I helped the senior engineer. I on this job have learned to
-          collaborate in teams, take responsibility, and improved my english
-          skills.
+        In the position of mechanical engineer, I worked at a chemical factory
+NETZSCH. Building industrial machines. Helped the senior engineer.
+Learned to collaborate in teams, take responsibility.
         </p>
       </div>
     </section>

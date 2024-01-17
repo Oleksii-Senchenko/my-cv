@@ -1,8 +1,8 @@
 [
-  { "skill": "Responsibility" },
-  { "skill": "Critical thinking" },
-  { "skill": "Time management" },
-  { "skill": "Adaptability" },
-  { "skill": "Team player" },
-  { "skill": "Fast learner" }
+  { "item": "Responsibility" },
+  { "item": "Critical thinking" },
+  { "item": "Time management" },
+  { "item": "Adaptability" },
+  { "item": "Team player" },
+  { "item": "Fast learner" }
 ]
